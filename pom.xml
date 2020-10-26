@@ -20,7 +20,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<sonar.projectKey>kleidson</sonar.projectKey>
-		<sonar.host.url>http://ip172-18-0-13-bub0lf1qckh000d0v0sg-9000.direct.labs.play-with-docker.com</sonar.host.url>
+		<sonar.host.url>http://ip172-18-0-45-bub19gpqckh000d0v2v0-9000.direct.labs.play-with-docker.com</sonar.host.url>
 		<sonar.login>147d7c0efdd6445ec9c40b3efb4d67edae16ed32</sonar.login>
 	</properties>
 
